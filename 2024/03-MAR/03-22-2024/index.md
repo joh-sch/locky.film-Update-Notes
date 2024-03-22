@@ -17,4 +17,5 @@ They are displayed in the preview video overlay, togehter with the project artis
 
 ![00-laurel-toggle](https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/9fc2dc53-39cd-42ed-8db9-e090bd70a20d)
 
-<img width="986" alt="00-laurel-toggle" src="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/9fc2dc53-39cd-42ed-8db9-e090bd70a20d">
+1. A laurel position, width and file field will now be available. 
+A laurel can be positioned in the video element’s corners (top left/right, bottom left/right) or centered along the element’s bottom edge. 
