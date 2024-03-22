@@ -10,7 +10,7 @@ This is the March 22nd 2024 development update for locky.film
 
 Laurel images can now be placed on top of the video project preview elements. 
 They are displayed in the preview video overlay, togehter with the project artist and title (fade in when the mouse enters a video project element).
-Each laurel is displayed for 3 seconds after which it fades out
+Each laurel is displayed for 3 seconds after which it fades out.
 
 <video 
   src     ="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/dc373d1d-dd43-49b5-854f-14512079a378" 
@@ -20,11 +20,13 @@ Each laurel is displayed for 3 seconds after which it fades out
 
 #### How to add & configure a laurel
 
-0. Switch on a video project’s _Laurel_ toggle field.
+0\. Switch on a video project’s _Laurel_ toggle field.
 
 ![00-laurel-toggle](https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/9fc2dc53-39cd-42ed-8db9-e090bd70a20d)
 
-1. Set the laurel position, width and file field.
+<br>
+
+1\. Set the laurel position, width and file field.
 
 A laurel can be positioned in the video element’s corners (top left/right, bottom left/right) or centered along the element’s bottom edge.
 
@@ -35,7 +37,9 @@ well for some laurels during testing. Trust your own judgment here and do a coup
 
 ![01-laurel-config](https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/3d216cc7-8aaa-40a4-8fc6-ad3ce98bc29b)
 
-2. A note on the laurel image files
+<br>
+
+2\. A note on the laurel image files
 
 For a consistent placement/layout of the laurels it will be helpful if the laurel image files themselves have
 no extra spacing/whitespace around the actual laurel graphic. Any extra spacing included in the file cannot be controlled via code and will be
