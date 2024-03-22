@@ -35,6 +35,6 @@ no extra spacing/whitespace around the actual laurel graphic. Any extra spacing 
 added to the laurel when it is displayed on top of the preview video and thereby set off spacing intended in the code. If possible, please try
 to get files without any extra spacing. In cases where this isn’t possible, feel free to reach out and I can remove the spacing for you.
 
-<img width="50%" alt="02-laurel-no-spacing" src="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/279e5063-30c5-4ec4-b901-008000d4fccb">
-<img width="50%" alt="04-laurel-w-spacing" src="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/df822bc2-c39b-404e-9911-7a5a33155a54">
+<img width="90%" alt="02-laurel-no-spacing" src="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/279e5063-30c5-4ec4-b901-008000d4fccb">
+<img width="90%" alt="04-laurel-w-spacing" src="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/df822bc2-c39b-404e-9911-7a5a33155a54">
 
