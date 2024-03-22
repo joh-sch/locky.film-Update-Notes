@@ -19,7 +19,8 @@ They are displayed in the preview video overlay, togehter with the project artis
 
 1. Set the laurel position, width and file field.
 
-A laurel can be positioned in the video element’s corners (top left/right, bottom left/right) or centered along the element’s bottom edge. 
+A laurel can be positioned in the video element’s corners (top left/right, bottom left/right) or centered along the element’s bottom edge.
+
 Because the laurel images come with different aspect ratios and different levels of detail (some are more intricate than others), it would be
 difficult to find a uniform width that works well for all of them (meaning a width that looks good/balanced in relation to the rest of the
 site design while also being legible). Hence the width can be gradually adjusted to a value between 10 and 30. The default value is 15, which worked
