@@ -17,5 +17,9 @@ They are displayed in the preview video overlay, togehter with the project artis
 
 ![00-laurel-toggle](https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/9fc2dc53-39cd-42ed-8db9-e090bd70a20d)
 
-1. A laurel position, width and file field will now be available. 
+1. Set the laurel position, width and file field.
 A laurel can be positioned in the video element’s corners (top left/right, bottom left/right) or centered along the element’s bottom edge. 
+Because the laurel images come with different aspect ratios and different levels of detail (some are more intricate than others), it would be
+difficult to find a uniform width that works well for all of them (meaning a width that looks good/balanced in relation to the rest of the
+site design while also being legible). Hence the width can be gradually adjusted to a value between 10 and 30. The default value is 15, which worked
+well for some laurels during testing. Trust your own judgment here and do a couple of tests to find a good size.
