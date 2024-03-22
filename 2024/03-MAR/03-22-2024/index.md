@@ -25,3 +25,14 @@ Because the laurel images come with different aspect ratios and different levels
 difficult to find a uniform width that works well for all of them (meaning a width that looks good/balanced in relation to the rest of the
 site design while also being legible). Hence the width can be gradually adjusted to a value between 10 and 30. The default value is 15, which worked
 well for some laurels during testing. Trust your own judgment here and do a couple of tests to find a good size.
+
+![01-laurel-config](https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/3d216cc7-8aaa-40a4-8fc6-ad3ce98bc29b)
+
+2. A note on the laurel image files: For a consistent placement/layout of the laurels it will be helpful if the laurel image files themselves have
+no extra spacing/whitespace around the actual laurel graphic. Any extra spacing included in the file cannot be controlled via code and will be
+added to the laurel when it is displayed on top of the preview video and thereby set off spacing intended in the code. If possible, please try
+to get files without any extra spacing. In cases where this isn’t possible, feel free to reach out and I can remove the spacing for you.
+
+<img width="40%" alt="02-laurel-no-spacing" src="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/279e5063-30c5-4ec4-b901-008000d4fccb">
+<img width="40%" alt="04-laurel-w-spacing" src="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/df822bc2-c39b-404e-9911-7a5a33155a54">
+
