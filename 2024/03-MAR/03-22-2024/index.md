@@ -10,6 +10,13 @@ This is the March 18th 2024 development update for locky.film
 
 Laurel images can now be placed on top of the video project preview elements. 
 They are displayed in the preview video overlay, togehter with the project artist and title (fade in when the mouse enters a video project element).
+Each laurel is displayed for 3 seconds after which it fades out
+
+<video 
+  src     ="https://github.com/joh-sch/locky.film-Update-Notes/assets/39758027/dc373d1d-dd43-49b5-854f-14512079a378" 
+  controls="controls" 
+  style   ="max-width: 100%;">
+</video>
 
 #### How to add & configure a laurel
 
